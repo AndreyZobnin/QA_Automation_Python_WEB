@@ -1,0 +1,32 @@
+2023-08-31 12:15:52 INFO ====== WebDriver manager ======
+2023-08-31 12:15:53 INFO Get LATEST chromedriver version for google-chrome
+2023-08-31 12:15:53 INFO Get LATEST chromedriver version for google-chrome
+2023-08-31 12:15:53 INFO There is no [win64] chromedriver "116.0.5845.110" for browser google-chrome "116.0.5845.110" in cache
+2023-08-31 12:15:53 INFO Get LATEST chromedriver version for google-chrome
+2023-08-31 12:15:53 INFO WebDriver version 116.0.5845.96 selected
+2023-08-31 12:15:53 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-31 12:15:53 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-31 12:15:54 INFO Driver downloading response is 200
+2023-08-31 12:15:55 INFO Get LATEST chromedriver version for google-chrome
+2023-08-31 12:15:55 INFO Driver has been saved in cache [C:\Users\Professional\.wdm\drivers\chromedriver\win64\116.0.5845.110]
+2023-08-31 12:15:57 INFO Test 1 is starting
+2023-08-31 12:15:58 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2023-08-31 12:15:58 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2023-08-31 12:15:58 INFO Click login button
+2023-08-31 12:16:00 INFO Founded text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-08-31 12:16:00 INFO Test 2 is starting
+2023-08-31 12:16:00 INFO Send Stepan90 to element //*[@id="login"]/div[1]/label/input
+2023-08-31 12:16:00 INFO Send feb966b76b to element //*[@id="login"]/div[2]/label/input
+2023-08-31 12:16:00 INFO Click login button
+2023-08-31 12:16:01 INFO Test 3 is starting
+2023-08-31 12:16:03 INFO Click creating post button
+2023-08-31 12:16:06 INFO Send HW2 test to element /html/body/div/main/div/div/form/div/div/div[1]/div/label/input
+2023-08-31 12:16:06 INFO Send new description post to element /html/body/div/main/div/div/form/div/div/div[2]/div/label/span/textarea
+2023-08-31 12:16:06 INFO Send new content in the post to element /html/body/div/main/div/div/form/div/div/div[3]/div/label/span/textarea
+2023-08-31 12:16:06 INFO Click saving post button
+2023-08-31 12:16:08 INFO Test 4 is starting
+2023-08-31 12:16:10 INFO Click opening contact_us form
+2023-08-31 12:16:12 INFO Send Stepan Ivanov to element //*[@id="contact"]/div[1]/label/input
+2023-08-31 12:16:12 INFO Send stepka@test.ru to element //*[@id="contact"]/div[2]/label/input
+2023-08-31 12:16:12 INFO Send Hi, guys! to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-08-31 12:16:12 INFO Click sending contact_us form

@@ -1,0 +1,13 @@
+address: https://test-stand.gb.ru
+driver_path: chromedriver.exe
+browser: edge
+username:  Aanderson2023
+password: 2cbb168425
+username: Andrey Zobnin
+email: andres@test.ru
+sleep_time: 3
+implicitly_wait: 4
+post_title: HW2 test
+post_description: new description post
+post_content: new content in the post
+contact_us_text: Hello!!!
