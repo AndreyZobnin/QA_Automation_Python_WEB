@@ -1,0 +1,19 @@
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+driver_path: chromedriver.exe
+browser: chrome
+username: Aanderson2023
+password: 2cbb168425
+username: Andrey Zobnin
+email: andres@test.ru
+sleep_time: 3
+implicitly_wait: 4
+post_title: HW4 test
+post_description: new description post
+post_content: new content in the post
+another_user_post_title: New title3
+contact_us_text: Hello!!!
+log_email: None
+log_email_pass: None
+log_name: log.txt
+report_name: report.html

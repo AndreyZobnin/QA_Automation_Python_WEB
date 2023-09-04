@@ -1,0 +1,36 @@
+2023-09-04 10:54:53 INFO _____________REST test 1 is starting_____________
+2023-09-04 10:54:53 INFO Getting list of posts...
+2023-09-04 10:54:54 INFO Success
+2023-09-04 10:54:54 INFO _____________REST test 2 is starting_____________
+2023-09-04 10:54:54 INFO Creating a new post...
+2023-09-04 10:54:55 INFO Success
+2023-09-04 10:54:55 INFO ====== WebDriver manager ======
+2023-09-04 10:54:56 INFO Get LATEST chromedriver version for google-chrome
+2023-09-04 10:54:56 INFO Get LATEST chromedriver version for google-chrome
+2023-09-04 10:54:56 INFO There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.140" in cache
+2023-09-04 10:54:56 INFO Get LATEST chromedriver version for google-chrome
+2023-09-04 10:54:57 INFO WebDriver version 116.0.5845.96 selected
+2023-09-04 10:54:57 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-04 10:54:57 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-04 10:54:57 INFO Driver downloading response is 200
+2023-09-04 10:54:58 INFO Get LATEST chromedriver version for google-chrome
+2023-09-04 10:54:58 INFO Driver has been saved in cache [C:\Users\Professional\.wdm\drivers\chromedriver\win64\116.0.5845.140]
+2023-09-04 10:55:00 INFO _____________UI test 1 is starting_____________
+2023-09-04 10:55:01 INFO Send test to element Enter a login on an authorisation page
+2023-09-04 10:55:01 INFO Send test to element Enter a password on  an authorisation page
+2023-09-04 10:55:02 INFO _____________UI test 2 is starting_____________
+2023-09-04 10:55:02 INFO Send Stepan90 to element Enter a login on an authorisation page
+2023-09-04 10:55:02 INFO Send feb966b76b to element Enter a password on  an authorisation page
+2023-09-04 10:55:02 INFO Success
+2023-09-04 10:55:04 INFO _____________UI test 3 is starting_____________
+2023-09-04 10:55:08 INFO Send HW4 test to element Enter a title in a creating post form
+2023-09-04 10:55:08 INFO Send new description post to element Enter a description in a creating post form
+2023-09-04 10:55:08 INFO Send new content in the post to element Enter a content in a creating post form
+2023-09-04 10:55:10 INFO Success
+2023-09-04 10:55:10 INFO _____________UI test 4 is starting_____________
+2023-09-04 10:55:14 INFO Send Stepan Ivanov to element Enter an username in a contact us form
+2023-09-04 10:55:14 INFO Send stepka@test.ru to element Enter an email in a contact us form
+2023-09-04 10:55:15 INFO Send Hi, guys! to element Enter a content in a contact us form
+2023-09-04 10:55:17 INFO Success
+2023-09-04 10:55:17 INFO Get alert text
+2023-09-04 10:55:17 INFO Form successfully submitted
